@@ -1,6 +1,6 @@
 # POS Store Data
 
-#### NOTE: Development is running on this repository rather than the sfm_production version
+#### NOTE: This is a public version of a private repository. Database configs have been removed and data is test data only.
 
 ##### Data is being collected from POS at stores across Saudi, the data needs to be uploaded, checked, cleaned then imported as members into ExpressionEngine, once imported the members are then emailed with a link that automatically logs them in.
 
