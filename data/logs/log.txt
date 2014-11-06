@@ -1,0 +1,100 @@
+PROG_START - - [2014-05-12T13:12:23+00:00] Started process...
+FILE_PROCD - - [2014-05-12T13:12:23+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/store_data/test_data.csv
+EXIS_MEMBR - - [2014-05-12T13:12:23+00:00] 4 existing member(s).
+INVL_EMAIL - - [2014-05-12T13:12:23+00:00] 2 bogus email(s). See bad data file
+FILE_CREAT - - [2014-05-12T13:12:23+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/bad/test_data.json
+FILE_CREAT - - [2014-05-12T13:12:23+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.txt
+FILE_CREAT - - [2014-05-12T13:12:23+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.xml
+FILE_CREAT - - [2014-05-12T13:12:23+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.json
+FILE_CREAT - - [2014-05-12T13:12:23+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/cron_list_data/cron_data.xml
+PROG_FINIS - - [2014-05-12T13:12:23+00:00] Finished process;
+PROG_START - - [2014-05-12T14:41:01+00:00] Started process...
+FILE_PROCD - - [2014-05-12T14:41:01+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/store_data/test_data.csv
+EXIS_MEMBR - - [2014-05-12T14:41:01+00:00] 4 existing member(s).
+INVL_EMAIL - - [2014-05-12T14:41:01+00:00] 2 bogus email(s). See bad data file
+FILE_CREAT - - [2014-05-12T14:41:01+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/bad/test_data.json
+FILE_CREAT - - [2014-05-12T14:41:01+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.txt
+FILE_CREAT - - [2014-05-12T14:41:01+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.xml
+FILE_CREAT - - [2014-05-12T14:41:01+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.json
+FILE_CREAT - - [2014-05-12T14:41:01+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/cron_list_data/cron_data.xml
+PROG_START - - [2014-05-12T14:41:22+00:00] Started process...
+FILE_PROCD - - [2014-05-12T14:41:22+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/store_data/test_data.csv
+EXIS_MEMBR - - [2014-05-12T14:41:22+00:00] 4 existing member(s).
+INVL_EMAIL - - [2014-05-12T14:41:22+00:00] 2 bogus email(s). See bad data file
+FILE_CREAT - - [2014-05-12T14:41:22+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/bad/test_data.json
+FILE_CREAT - - [2014-05-12T14:41:22+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.txt
+FILE_CREAT - - [2014-05-12T14:41:22+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.xml
+FILE_CREAT - - [2014-05-12T14:41:22+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.json
+FILE_CREAT - - [2014-05-12T14:41:22+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/cron_list_data/cron_data.xml
+WRIT_MONGO - - [2014-05-12T14:41:22+00:00] Writing to mongodb
+PROG_FINIS - - [2014-05-12T14:41:22+00:00] Finished process;
+PROG_START - - [2014-05-12T14:45:18+00:00] Started process...
+FILE_PROCD - - [2014-05-12T14:45:18+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/store_data/test_data.csv
+EXIS_MEMBR - - [2014-05-12T14:45:18+00:00] 4 existing member(s).
+INVL_EMAIL - - [2014-05-12T14:45:18+00:00] 2 bogus email(s). See bad data file
+FILE_CREAT - - [2014-05-12T14:45:18+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/bad/test_data.json
+FILE_CREAT - - [2014-05-12T14:45:18+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.txt
+FILE_CREAT - - [2014-05-12T14:45:18+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.xml
+FILE_CREAT - - [2014-05-12T14:45:18+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.json
+FILE_CREAT - - [2014-05-12T14:45:18+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/cron_list_data/cron_data.xml
+WRIT_MONGO - - [2014-05-12T14:45:18+00:00] Writing to mongodb
+PROG_FINIS - - [2014-05-12T14:45:18+00:00] Finished process;
+PROG_START - - [2014-05-12T15:12:22+00:00] Started process...
+FILE_PROCD - - [2014-05-12T15:12:22+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/store_data/test_data.csv
+EXIS_MEMBR - - [2014-05-12T15:12:22+00:00] 4 existing member(s).
+INVL_EMAIL - - [2014-05-12T15:12:22+00:00] 2 bogus email(s). See bad data file
+FILE_CREAT - - [2014-05-12T15:12:22+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/bad/test_data.json
+FILE_CREAT - - [2014-05-12T15:12:22+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.txt
+FILE_CREAT - - [2014-05-12T15:12:22+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.xml
+FILE_CREAT - - [2014-05-12T15:12:22+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.json
+FILE_CREAT - - [2014-05-12T15:12:22+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/cron_list_data/cron_data.xml
+WRIT_MONGO - - [2014-05-12T15:12:22+00:00] Writing to mongodb
+PROG_FINIS - - [2014-05-12T15:12:22+00:00] Finished process;
+PROG_START - - [2014-05-12T15:15:51+00:00] Started process...
+FILE_PROCD - - [2014-05-12T15:15:51+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/store_data/test_data.csv
+EXIS_MEMBR - - [2014-05-12T15:15:51+00:00] 4 existing member(s).
+INVL_EMAIL - - [2014-05-12T15:15:51+00:00] 2 bogus email(s). See bad data file
+GOOD_DATAS - - [2014-05-12T15:15:51+00:00] 2 valid emails found.
+FILE_CREAT - - [2014-05-12T15:15:51+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/bad/test_data.json
+FILE_CREAT - - [2014-05-12T15:15:51+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.txt
+FILE_CREAT - - [2014-05-12T15:15:51+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.xml
+FILE_CREAT - - [2014-05-12T15:15:51+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.json
+FILE_CREAT - - [2014-05-12T15:15:51+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/cron_list_data/cron_data.xml
+WRIT_MONGO - - [2014-05-12T15:15:51+00:00] Writing to mongodb
+PROG_FINIS - - [2014-05-12T15:15:51+00:00] Finished process;
+PROG_START - - [2014-05-12T15:21:40+00:00] Started process...
+FILE_PROCD - - [2014-05-12T15:21:40+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/store_data/test_data.csv
+EXIS_MEMBR - - [2014-05-12T15:21:40+00:00] 4 existing member(s).
+INVL_EMAIL - - [2014-05-12T15:21:40+00:00] 2 bogus email(s). See bad data file
+GOOD_DATAS - - [2014-05-12T15:21:40+00:00] 2 valid emails found.
+FILE_CREAT - - [2014-05-12T15:21:40+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/bad/test_data.json
+FILE_CREAT - - [2014-05-12T15:21:40+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.txt
+FILE_CREAT - - [2014-05-12T15:21:40+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.xml
+FILE_CREAT - - [2014-05-12T15:21:40+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.json
+FILE_CREAT - - [2014-05-12T15:21:40+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/cron_list_data/cron_data.xml
+WRIT_MONGO - - [2014-05-12T15:21:40+00:00] Writing to mongodb
+PROG_FINIS - - [2014-05-12T15:21:40+00:00] Finished process;
+PROG_START - - [2014-05-12T15:31:07+00:00] Started process...
+FILE_PROCD - - [2014-05-12T15:31:07+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/store_data/test_data.csv
+EXIS_MEMBR - - [2014-05-12T15:31:07+00:00] 4 existing member(s).
+INVL_EMAIL - - [2014-05-12T15:31:07+00:00] 2 bogus email(s). See bad data file
+GOOD_DATAS - - [2014-05-12T15:31:07+00:00] 2 valid emails found.
+FILE_CREAT - - [2014-05-12T15:31:07+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/bad/test_data.json
+FILE_CREAT - - [2014-05-12T15:31:07+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.txt
+FILE_CREAT - - [2014-05-12T15:31:07+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.xml
+FILE_CREAT - - [2014-05-12T15:31:07+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.json
+FILE_CREAT - - [2014-05-12T15:31:07+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/cron_list_data/cron_data.xml
+WRIT_MONGO - - [2014-05-12T15:31:07+00:00] Writing to mongodb
+PROG_FINIS - - [2014-05-12T15:31:07+00:00] Finished process;
+PROG_START - - [2014-05-12T15:37:02+00:00] Started process...
+FILE_PROCD - - [2014-05-12T15:37:02+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/store_data/test_data.csv
+EXIS_MEMBR - - [2014-05-12T15:37:02+00:00] 4 existing member(s).
+INVL_EMAIL - - [2014-05-12T15:37:02+00:00] 2 bogus email(s). See bad data file
+GOOD_DATAS - - [2014-05-12T15:37:02+00:00] 2 valid emails found.
+FILE_CREAT - - [2014-05-12T15:37:02+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/bad/test_data.json
+FILE_CREAT - - [2014-05-12T15:37:02+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.txt
+FILE_CREAT - - [2014-05-12T15:37:02+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.xml
+FILE_CREAT - - [2014-05-12T15:37:02+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/formats/test_data.json
+FILE_CREAT - - [2014-05-12T15:37:02+00:00] /Users/michaelwatts/Documents/_amazing_php_scripts/StoreIncentives 2/StoreIncentives/data/cron_list_data/cron_data.xml
+WRIT_MONGO - - [2014-05-12T15:37:02+00:00] Writing to mongodb
+PROG_FINIS - - [2014-05-12T15:37:02+00:00] Finished process;

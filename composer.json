@@ -1,0 +1,20 @@
+{
+  "name"             : "smsw/StoreIncentives",
+  "description"      : "Store incentive to sign up members to SFM",
+  "minimum-stability": "stable",
+  "license"          : "proprietary",
+  "authors"          : [
+    {
+      "name" : "Michael Watts",
+      "email": "mike@smswmedia.com"
+    }
+  ],
+  "require": {
+    "phpmailer/phpmailer": "v5.2.7",
+    "campaignmonitor/createsend-php": "v4.0.0",
+    "phpunit/phpunit-mock-objects": "2.2.x-dev",
+    "sebastian/comparator": "1.0.x-dev",
+    "phpunit/php-code-coverage": "3.0.x-dev",
+    "phpunit/phpunit": "4.2.x-dev"
+  }
+}
